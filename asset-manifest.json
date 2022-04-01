@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/soledad2-app/static/css/main.073c9b0a.css",
+    "main.js": "/soledad2-app/static/js/main.9c59e599.js",
+    "static/js/787.61886ecc.chunk.js": "/soledad2-app/static/js/787.61886ecc.chunk.js",
+    "static/media/logo.svg": "/soledad2-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/soledad2-app/index.html",
+    "main.073c9b0a.css.map": "/soledad2-app/static/css/main.073c9b0a.css.map",
+    "main.9c59e599.js.map": "/soledad2-app/static/js/main.9c59e599.js.map",
+    "787.61886ecc.chunk.js.map": "/soledad2-app/static/js/787.61886ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9c59e599.js"
+  ]
+}
